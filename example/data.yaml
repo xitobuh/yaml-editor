@@ -1,0 +1,26 @@
+# Example YAML file
+name: John Doe
+age: 30
+height: 175.5
+is_student: true
+grades:
+  - 85.5
+  - 90.0
+  - 78.2
+courses:
+  - Math
+  - Science
+  - History
+address:
+  city: New York
+  postal_code: "10001"
+  country: USA
+students:
+  - name: Alice
+    age: 22
+    grade: 88.5
+    is_active: true
+  - name: Bob
+    age: 23
+    grade: 90.0
+    is_active: false

@@ -1,0 +1,17 @@
+# Example YAML schema
+name: str
+age: int
+height: float
+is_student: bool
+grades: list[float]
+courses:
+  - str
+address:
+  city: str
+  postal_code: str
+  country: str
+students:
+  - name: str
+    age: int
+    grade: float
+    is_active: bool

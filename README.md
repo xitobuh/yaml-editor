@@ -1,0 +1,1 @@
+This is an application to graphically edit yaml files based of an yaml schema written in python

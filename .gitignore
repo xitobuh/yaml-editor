@@ -1,0 +1,4 @@
+yaml_editor.egg-info
+dist/*
+output.yaml
+**/__pycache__/**
